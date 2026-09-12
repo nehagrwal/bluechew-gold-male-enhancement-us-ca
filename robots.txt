@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/bluechew-gold-male-enhancement-us-ca/sitemap.xml
+Sitemap: https://bluechew-gold-male-enhancement-us-ca.vercel.app/sitemap-vercel.xml
+Sitemap: https://bluechew-gold-male-enhancement-us-ca.pages.dev/sitemap-cloudflare.xml
